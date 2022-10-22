@@ -1,1 +1,0 @@
-# squareoot.c
