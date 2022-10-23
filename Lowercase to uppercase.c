@@ -12,7 +12,7 @@ char ab[100];
 
 
 printf("enter any abc : ");
-scanf("%s]",ab);
+scanf("%s",ab);
 
 //output in uppercase
 
